@@ -1,0 +1,15 @@
+/Users/gaurav.b.gupta/Proximity/src/main/java/com/proximity/technicaltest/service/PlotService.java
+/Users/gaurav.b.gupta/Proximity/src/main/java/com/proximity/technicaltest/TechnicalTestApplication.java
+/Users/gaurav.b.gupta/Proximity/src/main/java/com/proximity/technicaltest/repository/PlotRepository.java
+/Users/gaurav.b.gupta/Proximity/src/main/java/com/proximity/technicaltest/common/Utility.java
+/Users/gaurav.b.gupta/Proximity/src/main/java/com/proximity/technicaltest/validator/AliasValidator.java
+/Users/gaurav.b.gupta/Proximity/src/main/java/com/proximity/technicaltest/config/SwaggerConfig.java
+/Users/gaurav.b.gupta/Proximity/src/main/java/com/proximity/technicaltest/exception/RestExceptionHandler.java
+/Users/gaurav.b.gupta/Proximity/src/main/java/com/proximity/technicaltest/exception/NotFoundException.java
+/Users/gaurav.b.gupta/Proximity/src/main/java/com/proximity/technicaltest/exception/HandledException.java
+/Users/gaurav.b.gupta/Proximity/src/main/java/com/proximity/technicaltest/model/AddPlotRequest.java
+/Users/gaurav.b.gupta/Proximity/src/main/java/com/proximity/technicaltest/entity/Plot.java
+/Users/gaurav.b.gupta/Proximity/src/main/java/com/proximity/technicaltest/controller/IrrigationController.java
+/Users/gaurav.b.gupta/Proximity/src/main/java/com/proximity/technicaltest/exception/ExceptionHelper.java
+/Users/gaurav.b.gupta/Proximity/src/main/java/com/proximity/technicaltest/controller/PlotController.java
+/Users/gaurav.b.gupta/Proximity/src/main/java/com/proximity/technicaltest/validator/Alias.java
